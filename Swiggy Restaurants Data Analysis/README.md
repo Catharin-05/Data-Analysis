@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Swiggy Restaurants Data Analysis
 This repository includes analysis on various datasets such as restaurant ratings, customer churn, and more. Each notebook provides insights and visualizations based on the dataset.
 
 
